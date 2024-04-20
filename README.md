@@ -1,6 +1,6 @@
- -👋 Hi, I’m @Nehachakkarwar
-	-🌱  I’m currently learning Next JS by doing Project.	
- -🔎  I’m looking to collaborate on anything related to Web and Mobile application development.
+ *👋 Hi, I’m @Nehachakkarwar
+ *🌱 I’m currently learning Next JS by doing Project.	
+ -🔎 I’m looking to collaborate on anything related to Web and Mobile application development.
  -💬 Ask me about Frontend Development
  -💗 Love to talk about Research and Innovation!
  -😄 Pronouns: she/her.
